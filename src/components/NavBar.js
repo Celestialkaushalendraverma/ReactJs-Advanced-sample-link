@@ -32,6 +32,16 @@ const NavBar = () => {
                 Control Form
               </Link>
             </li>
+            <li className='nav-item'>
+              <Link className='nav-link' to='/lazyloading'>
+                Lazy loading
+              </Link>
+            </li>
+            <li className='nav-item'>
+              <Link className='nav-link' to='/contextapi'>
+                Context API
+              </Link>
+            </li>
           </ul>
         </div>
       </div>
