@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkadrtproject=self.webpackChunkadrtproject||[]).push([[912],{912:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var t=r(671),u=r(466),c=r(136),a=r(516),o=r(791),i=r(184),f=function(n){(0,c.Z)(r,n);var e=(0,a.Z)(r);function r(){return(0,t.Z)(this,r),e.apply(this,arguments)}return(0,u.Z)(r,[{key:"render",value:function(){return(0,i.jsx)("h3",{children:"Lazyhome"})}}]),r}(o.Component)}}]);
+//# sourceMappingURL=912.d011bb06.chunk.js.map

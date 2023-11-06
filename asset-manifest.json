@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ReactJs-Advanced-sample-link/static/css/main.f9a1eef7.css",
+    "main.js": "/ReactJs-Advanced-sample-link/static/js/main.c7cb16c9.js",
+    "static/js/912.d011bb06.chunk.js": "/ReactJs-Advanced-sample-link/static/js/912.d011bb06.chunk.js",
+    "static/js/731.ed295dac.chunk.js": "/ReactJs-Advanced-sample-link/static/js/731.ed295dac.chunk.js",
+    "static/js/787.4bd829b0.chunk.js": "/ReactJs-Advanced-sample-link/static/js/787.4bd829b0.chunk.js",
+    "index.html": "/ReactJs-Advanced-sample-link/index.html",
+    "main.f9a1eef7.css.map": "/ReactJs-Advanced-sample-link/static/css/main.f9a1eef7.css.map",
+    "main.c7cb16c9.js.map": "/ReactJs-Advanced-sample-link/static/js/main.c7cb16c9.js.map",
+    "912.d011bb06.chunk.js.map": "/ReactJs-Advanced-sample-link/static/js/912.d011bb06.chunk.js.map",
+    "731.ed295dac.chunk.js.map": "/ReactJs-Advanced-sample-link/static/js/731.ed295dac.chunk.js.map",
+    "787.4bd829b0.chunk.js.map": "/ReactJs-Advanced-sample-link/static/js/787.4bd829b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a1eef7.css",
+    "static/js/main.c7cb16c9.js"
+  ]
+}
